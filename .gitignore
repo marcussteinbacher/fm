@@ -46,3 +46,4 @@ __pycache__/bond.cpython-312.pyc
 __pycache__/cpi.cpython-312.pyc
 .ipynb_checkpoints/fm_se-checkpoint.ipynb
 *.Identifier
+__pycache__/
